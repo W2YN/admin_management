@@ -1,0 +1,1 @@
+* * * * * /usr/bin/php /data/www/html/ManagementPlatformV2/artisan schedule:run >> /dev/null 2>&1
